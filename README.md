@@ -1,6 +1,6 @@
 # direct_mapped_cache_simulator
 
-A.	About the Overall procedures
+[About the Overall procedures]
 
 
 I made the direct mapped cache simulator and here are the steps how I made it. 
@@ -25,5 +25,7 @@ At last, I made the output file which is named after the input file, it prints o
 After that, I added the result of the total counts of hit and misses.
 
 If you guys have any feedbacks, pls let me know.
+
 All feedbacks are welcome!
+
 THX!
