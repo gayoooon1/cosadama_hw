@@ -8,7 +8,7 @@ Apply the methods that I learned in Computer Organization lecture
 Build StatusWindows Build Status
 
 # Screenshots
-Include logo/demo screenshot etc.
+![cache_module](https://user-images.githubusercontent.com/60475072/77843118-d17f2e80-71d4-11ea-83cf-5311eaaf696f.jpg)
 
 # Tech/framework used
 DataFrame from Pandas
