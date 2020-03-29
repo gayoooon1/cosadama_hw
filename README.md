@@ -1,8 +1,8 @@
-Project title
-# direct_mapped_cache_simulator
+# Project title
+Direct_mapped_cache_simulator
 
 # Motivation
-Apply the methods that I learned in Computer Organization lecture 
+Apply the methods that I learned in Computer Organization lecture with Python
 
 # Build status ?
 Build StatusWindows Build Status
