@@ -1,5 +1,6 @@
-# Project title
-Direct_mapped_cache_simulator
+# Direct_mapped_cache_simulator
+Project title
+본래 목적은 Direct가 아니었으나 동적 할당에 대한 지식이 부족하여 Direct cache simiulator을 만들게 되었다.
 
 # Motivation
 Apply the methods that I learned in Computer Organization lecture with Python
