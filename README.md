@@ -3,9 +3,6 @@
 ## Motivation
 Apply the methods that I learned in Computer Organization lecture with Python
 
-## Build status ?
-Build StatusWindows Build Status
-
 ## Screenshots
 ![cache_module](https://user-images.githubusercontent.com/60475072/77843118-d17f2e80-71d4-11ea-83cf-5311eaaf696f.jpg)
 
